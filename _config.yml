@@ -13,11 +13,11 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "DataRescueTEMPLATE" #update with website title
-event_name:  "DataRescue[EventName]" #update with event name
-event_date:  2017-01-01 #update with event date
-location_name: "[Location Name]" #update with location "pretty name"
-description: ""
+title:       "Data Rescue - Oregon State University" #update with website title
+event_name:  "DataRescue - Oregon State University" #update with event name
+event_date:  2017-03-17 & 2017-03-18 #update with event date
+location_name: "Oregon State University - The Valley Library - Autzen Classroom" #update with location "pretty name"
+description: "Join us at The Valley Library to ensure the preservation of data in this time of political transition."
 source_link: "" #put github repo/organization
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
