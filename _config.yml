@@ -15,7 +15,7 @@ markdown: kramdown
 ### content configuration ###
 title:       "Data Rescue - Oregon State University" #update with website title
 event_name:  "DataRescue - Oregon State University" #update with event name
-event_date:  "2017-03-17 & 2017-03-18" #update with event date
+event_date:  2017-03-17 & 2017-03-18 #update with event date
 location_name: "Oregon State University - The Valley Library - Autzen Classroom" #update with location "pretty name"
 description: "Join us at The Valley Library to ensure the preservation of data in this time of political transition."
 source_link: "" #put github repo/organization
