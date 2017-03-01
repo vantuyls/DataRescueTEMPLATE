@@ -13,6 +13,7 @@ markdown: kramdown
 
 
 ### content configuration ###
+site-url: "https://vantuyls.github.io"
 title:       "Data Rescue - Oregon State University" #update with website title
 event_name:  "DataRescue - Oregon State University" #update with event name
 event_date1:  2017-03-17  #update with event date
